@@ -1,0 +1,135 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "C:\\Users\\Nguyen PC\\Codes\\GenetekProjects\\base-bank\\web3\\contracts\\Mint.sol": {
+      "lastModificationDate": 1694402590085,
+      "contentHash": "05e2d2b0fdaf942db4cb1d4602480db6",
+      "sourceName": "contracts/Mint.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Address",
+        "Context",
+        "Counters",
+        "ERC165",
+        "ERC721",
+        "ERC721Enumerable",
+        "IERC165",
+        "IERC20",
+        "IERC721",
+        "IERC721Enumerable",
+        "IERC721Metadata",
+        "IERC721Receiver",
+        "IUniswapV2Router01",
+        "IUniswapV2Router02",
+        "Mint",
+        "Ownable",
+        "SafeMath",
+        "Strings"
+      ]
+    },
+    "C:\\Users\\Nguyen PC\\Codes\\GenetekProjects\\base-bank\\web3\\contracts\\Staking.sol": {
+      "lastModificationDate": 1695372456291,
+      "contentHash": "fbf72831e804c48f9fda501fffbb3a37",
+      "sourceName": "contracts/Staking.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Context",
+        "IERC20",
+        "Ownable",
+        "ReentrancyGuard",
+        "Staking"
+      ]
+    },
+    "C:\\Users\\Nguyen PC\\Codes\\GenetekProjects\\base-bank\\web3\\contracts\\Token.sol": {
+      "lastModificationDate": 1694402590086,
+      "contentHash": "c1cab4d3f08c398a5f85a42a9fbf45d0",
+      "sourceName": "contracts/Token.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        ">=0.7.0 <0.9.0"
+      ],
+      "artifacts": [
+        "Context",
+        "ERC20",
+        "IERC20",
+        "IERC20Metadata",
+        "Token"
+      ]
+    }
+  }
+}

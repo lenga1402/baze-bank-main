@@ -1,0 +1,40 @@
+export const links = {
+  WHITEPAPER: "",
+  DEVELOPER_DOCS: "https://docs.bankonbase.com/",
+  PINK_SALE:
+    "https://www.pinksale.finance/launchpad/0xFf02E8aCfBB21Ec922bdC71f93f7d948Fd8ADD0e?chain=BSC",
+  POO_COIN: "",
+  DEX_TOOL: "",
+  COINGECKO: "",
+  COIN_MARKET_CAP: "",
+  BSC_SCAN: "",
+  SNAPSHOT: "https://snapshot.org/#/bankonbase.eth",
+
+  // Social
+  TWITTER: "https://twitter.com/BankOnBasexyz",
+  TELEGRAM: "https://t.me/basebank_channel",
+  TELEGRAM_GLOBAL: "https://t.me/basebank_global",
+  DISCORD: "https://discord.com/invite/auzuZxzb35",
+  MEDIUM: "https://mirror.xyz/bankonbase.eth",
+  YOUTUBE: "",
+  INSTAGRAM: "#",
+  BE: "#",
+  MIRROR: "https://mirror.xyz/bankonbase.eth",
+
+  // footer
+  DAPPS: "app.bankonbase.com",
+  SNAP_SHOT: "https://snapshot.org/#/bankonbase.eth",
+  NAVIGATION: "#",
+  IMPRINT: "#",
+  DATA_PROTECTION: "#",
+  STUDIO: "#",
+  SERVICE: "#",
+  CONDITIONS: "#",
+  PROJECT: "#",
+  CONTACT: "#",
+  DOWNLOAD: "#",
+  ALL_MY_LINKS: "https://allmylinks.com/bankonbase",
+  FAQ: "https://docs.bankonbase.com/others/faq",
+  LEGAL: "https://docs.bankonbase.com/others/legal",
+  DOCS: "https://docs.bankonbase.com",
+}
