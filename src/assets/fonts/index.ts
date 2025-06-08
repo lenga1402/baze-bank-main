@@ -3,14 +3,17 @@ import localFont from "next/font/local"
 
 const MONTSERRAT = Montserrat({
   subsets: ["latin"],
+  display: "swap",
 })
 
 const INTER = Inter({
   subsets: ["latin"],
+  display: "swap",
 })
 
 const PLUS_jARKATA_SAN = Plus_Jakarta_Sans({
   subsets: ["latin"],
+  display: "swap",
 })
 
 const HELLIX = localFont({
